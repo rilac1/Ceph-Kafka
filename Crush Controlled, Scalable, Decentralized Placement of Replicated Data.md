@@ -24,6 +24,7 @@
 - bucket type: root / region / datacentor / room / pod / pdu / row / rack / chassis / host / osd
 
 ### 3.2 Replica Placement
+- Action
 - `TAKE(a)`: `a`를 `i 벡터`에 넣는다.
 - `SELECT(n,t)`: `t` type을 가진 bucket중에서 n개를 뽑는다.
 - EMIT
